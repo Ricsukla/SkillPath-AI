@@ -1,0 +1,6 @@
+
+gradio
+pandas
+matplotlib
+chromadb
+sentence-transformers
